@@ -1,6 +1,6 @@
 <h1>ToP4CAS</h1>
 
-<p>Tracker of Provenance for Collaborative Authoring System</p>
+<p>Tracker of Provenance for Collaborative Authoring Systems</p>
 
 <p>"top4cas.jar" extracts data of each token's authorships in latest revision for revisioned text-based contents.<br>
 "Test.java" is a sample code for using Top4cas.  </p>
